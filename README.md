@@ -1,5 +1,5 @@
 <div align="center">
  
 
-<img src="https://i.pinimg.com/originals/2b/5d/a3/2b5da32eda3f04cca5903e0022c14369.gif" alt="Alt Tag" width="800" height="600">
+<img src="https://i.pinimg.com/originals/44/69/66/4469668a63b2263349474ecc3854fa58.gif" alt="Alt Tag" width="800" height="600">
 </div>
