@@ -8,8 +8,6 @@
 
  <img src="https://i.pinimg.com/originals/54/81/6a/54816a916f0b34e65dbe7bf1da0d2b03.gif" alt="Alt Tag" width="800" height="600">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&redirect=true)
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&redirect=true)
 </div>
 
