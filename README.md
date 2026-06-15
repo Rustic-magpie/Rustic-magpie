@@ -3,5 +3,5 @@
 
 <img src="https://i.pinimg.com/originals/7f/7c/2b/7f7c2ba81238491f7172dc6c3632e761.gif" alt="Alt Tag" width="800" height="600">
 
-# "For all the happiness you wish for someone, someone else gets cursed with equal misery. That's how it works for Magical Girls, and that's how it is for me. I was so stupid, so stupid."
+# "𝙵𝚘𝚛 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚑𝚊𝚙𝚙𝚒𝚗𝚎𝚜𝚜 𝚢𝚘𝚞 𝚠𝚒𝚜𝚑 𝚏𝚘𝚛 𝚜𝚘𝚖𝚎𝚘𝚗𝚎, 𝚜𝚘𝚖𝚎𝚘𝚗𝚎 𝚎𝚕𝚜𝚎 𝚐𝚎𝚝𝚜 𝚌𝚞𝚛𝚜𝚎𝚍 𝚠𝚒𝚝𝚑 𝚎𝚚𝚞𝚊𝚕 𝚖𝚒𝚜𝚎𝚛𝚢. 𝚃𝚑𝚊𝚝'𝚜 𝚑𝚘𝚠 𝚒𝚝 𝚠𝚘𝚛𝚔𝚜 𝚏𝚘𝚛 𝙼𝚊𝚐𝚒𝚌𝚊𝚕 𝙶𝚒𝚛𝚕𝚜, 𝚊𝚗𝚍 𝚝𝚑𝚊𝚝'𝚜 𝚑𝚘𝚠 𝚒𝚝 𝚒𝚜 𝚏𝚘𝚛 𝚖𝚎. 𝙸 𝚠𝚊𝚜 𝚜𝚘 𝚜𝚝𝚞𝚙𝚒𝚍, 𝚜𝚘 𝚜𝚝𝚞𝚙𝚒𝚍."
 </div>
