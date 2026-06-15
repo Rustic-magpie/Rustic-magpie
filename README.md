@@ -1,6 +1,7 @@
 <div align="center">
  
 
-<img src="https://i.pinimg.com/originals/7f/7c/2b/7f7c2ba81238491f7172dc6c3632e761.gif" alt="Alt Tag" width="800" height="600">
+<img src="<img width="540" height="303" alt="image" src="https://github.com/user-attachments/assets/010043e4-9c49-423a-b1c1-cb1bbac8389a" />
+" alt="Alt Tag" width="800" height="600">
 
 </div>
