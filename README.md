@@ -8,6 +8,7 @@
 
 <div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&redirect=true)
 
  <img src="https://i.pinimg.com/originals/d1/2d/f1/d12df1fea7d4782aa32b9e7cea589e12.gif" alt="Alt Tag" width="800" height="600">
 
