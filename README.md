@@ -12,12 +12,12 @@
 
 
 
- <img src="https://i.pinimg.com/736x/54/39/2d/54392df44fe82abbd57b6d1874b2f658.jpg" alt="Alt Tag" width="800" height="900">
+ <img src="https://i.pinimg.com/736x/54/39/2d/54392df44fe82abbd57b6d1874b2f658.jpg" alt="Alt Tag" width="700" height="900">
 
 
 
 
-<img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f" width="80%">
+<img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f" width="70%">
 
 </div>
 
