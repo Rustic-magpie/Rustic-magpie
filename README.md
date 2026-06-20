@@ -9,7 +9,7 @@
 <div align="center">
 
 
-<img alt="Alt Tag" src="https://s5.ezgif.com/tmp/ezgif-5d2b9e61f20b3e8f.gif" width="800" height="600">
+<img alt="Alt Tag" src="https://s3.ezgif.com/tmp/ezgif-373c1802f01f1e80.gif" width="800" height="600">
 
 <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f" width="70%">
 
