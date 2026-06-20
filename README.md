@@ -9,7 +9,7 @@
 <div align="center">
 
 
- <img src="https://i.pinimg.com/originals/ab/66/1d/ab661d065cce21f85362643b927c45ef.gif" alt="Alt Tag" width="900" height="700">
+ <img src="https://i.pinimg.com/originals/f1/2d/91/f12d91df10486948c74ff77493527147.gif" alt="Alt Tag" width="800" height="600">
 
 
 </div>
