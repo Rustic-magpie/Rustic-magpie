@@ -12,7 +12,7 @@
 
 
 
- <img src="https://i.pinimg.com/originals/d1/2d/f1/d12df1fea7d4782aa32b9e7cea589e12.gif" alt="Alt Tag" width="800" height="600">
+ <img src="https://i.pinimg.com/736x/54/39/2d/54392df44fe82abbd57b6d1874b2f658.jpg" alt="Alt Tag" width="800" height="600">
 
 
 
