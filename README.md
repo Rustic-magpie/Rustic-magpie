@@ -10,7 +10,6 @@
 
 <div align="center">
 
- ![Alt Tag](https://i.pinimg.com/originals/98/6c/6b/986c6b9bd60a31d18e6d664c88f348ea.gif)
 
 <img src="https://i.pinimg.com/736x/01/b5/81/01b581d2c9e2573ddd9900987e17c532.jpg" alt="Alt Tag" width="800" height="1200">
 
