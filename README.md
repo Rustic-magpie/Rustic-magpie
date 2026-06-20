@@ -11,7 +11,7 @@
 <div align="center">
 
 
-<img src="https://s5.ezgif.com/tmp/ezgif-5b71aec56bdc5b54.gif" alt="Aesthetic profile banner" style="max-width: 800%; height: auto; border-radius: 600px;">
+<img src="https://s5.ezgif.com/tmp/ezgif-5d2b9e61f20b3e8f.gif" alt="Aesthetic profile banner" style="max-width: 800%; height: auto; border-radius: 600px;">
 
 
 
