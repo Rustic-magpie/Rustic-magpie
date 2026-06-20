@@ -10,7 +10,7 @@
 
 
 
- <img src="https://i.pinimg.com/originals/d1/2d/f1/d12df1fea7d4782aa32b9e7cea589e12.gif" alt="Alt Tag" width="800" height="600">
+ <img src="https://i.pinimg.com/originals/d1/2d/f1/d12df1fea7d4782aa32b9e7cea589e12.gif" alt="Alt Tag" width="900" height="700">
 
 
 
