@@ -11,8 +11,7 @@
 <div align="center">
 
 
-
- <img src="https://i.pinimg.com/736x/01/b5/81/01b581d2c9e2573ddd9900987e17c532.jpg" alt="Alt Tag" width="600" height="900">
+<img src="https://i.pinimg.com/736x/01/b5/81/01b581d2c9e2573ddd9900987e17c532.jpg" alt="Alt Tag" width="800" height="1200">
 
 
 
