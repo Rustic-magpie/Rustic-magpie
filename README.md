@@ -9,8 +9,7 @@
 <div align="center">
 
 
-<img src="https://via.placeholder.com/800x300?text=Your+Profile+Banner" alt="Aesthetic profile banner" style="max-width: 100%; height: auto; border-radius: 15px;">
-
+![Alt Tag](https://i.pinimg.com/736x/7a/2f/25/7a2f255da9ff8cd6106e945985213dca.jpg)
 
 <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f" width="70%">
 
