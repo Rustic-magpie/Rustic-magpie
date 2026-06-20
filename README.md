@@ -11,8 +11,7 @@
 <div align="center">
 
 
-<img src="https://i.pinimg.com/736x/52/8c/87/528c87b4305f8e998f5c31412f00cc53.jpg" alt="Alt Tag" width="800" height="600">
-
+<img src="https://i.pinimg.com/736x/52/8c/87/528c87b4305f8e998f5c31412f00cc53.jpg" alt="Aesthetic profile banner" style="max-width: 100%; height: auto; border-radius: 10px;">
 
 
 
