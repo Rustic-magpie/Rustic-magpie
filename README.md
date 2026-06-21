@@ -10,10 +10,6 @@
 
 <img src="https://s8.ezgif.com/tmp/ezgif-83556dafdffc6e36.webp" alt="Alt Tag" style="width:100%;max-width:1200px;height:auto;">
 
-
-
-<img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f" width="70%">
-
 </div>
 
 
