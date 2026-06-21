@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://s6.ezgif.com/tmp/ezgif-6d76ecf1bb094d85.gif" alt="Alt Tag" style="width:100%;max-width:1200px;height:auto;">
+<img src="https://s1.ezgif.com/tmp/ezgif-1129dc0f97070371.gif" alt="Alt Tag" style="width:100%;max-width:1200px;height:auto;">
 
 
 
