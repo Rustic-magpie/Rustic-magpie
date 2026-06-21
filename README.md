@@ -9,7 +9,7 @@
 <div align="center">
 
 
-![Alt Tag](https://s6.ezgif.com/tmp/ezgif-6d76ecf1bb094d85.gif)
+<img src="https://s6.ezgif.com/tmp/ezgif-6d76ecf1bb094d85.gif" alt="Alt Tag" width="600">
 
 <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7sblnwcirxlgdelzc3yofzwkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f" width="70%">
 
