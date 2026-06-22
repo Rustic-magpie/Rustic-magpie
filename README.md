@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://s8.ezgif.com/tmp/ezgif-83556dafdffc6e36.webp" alt="Alt Tag" style="width:100%;max-width:1200px;height:auto;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkxN2FoNjcwMGFrY251MzhxcXJzYzZvYWh4aGdlczJha3cxYzdmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/86fgnRpGRheFaPtdSc/giphy.gif" alt="Alt Tag" style="width:100%;max-width:1200px;height:auto;">
 
 </div>
 
