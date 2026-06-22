@@ -10,8 +10,6 @@
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkxN2FoNjcwMGFrY251MzhxcXJzYzZvYWh4aGdlczJha3cxYzdmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/86fgnRpGRheFaPtdSc/giphy.gif"
     alt="Alt Tag"
-    style="width:1000%; max-width:1400px; height:auto;"
+    style="width:100%; max-width:100%; height:auto;"
   >
 </div>
-
-
